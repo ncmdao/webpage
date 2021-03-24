@@ -62,7 +62,6 @@ p {
 }
 #p03{
 	font-size:38px;
-	margin-top:5px;
 }
 .p04{
 	font-size:18px;
@@ -232,14 +231,14 @@ section {
     overflow: hidden;
 }
 #home {
-	background: #000000 url('images2019/msruasCampus_blur.jpg') no-repeat bottom;
+	background: #000000 url('images2018/IISc_building.jpg') no-repeat center center;
 	    -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
     text-align:center;
     margin-top:80px;
-    padding:20px 0;
+    padding:10px 0;
 	white-space:nowrap;
 }
 #contact,
