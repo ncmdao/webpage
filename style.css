@@ -233,7 +233,7 @@ section {
     overflow: hidden;
 }
 #home {
-	background: #000000 url('image2021/road_view.jpg') no-repeat center center;
+	background: #100c08 /*url('image2021/road_view.jpg')*/ no-repeat center center;
 	    -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
