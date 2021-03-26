@@ -120,6 +120,40 @@ img {
 	background-color: white;
 }
 
+
+/* .bg-back{ */
+  /* /* The image used */ */
+  /* background: url("image2021/road_view.jpg"); */
+
+  /* /* Add the blur effect */ */
+  /* filter: blur(8px); */
+  /* -webkit-filter: blur(8px); */
+
+  /* /* Full height */ */
+  /* height: 100%; */
+
+  /* /* Center and scale the image nicely */ */
+  /* background-position: center; */
+  /* background-repeat: no-repeat; */
+  /* background-size: cover; */
+/* } */
+
+/* .bg-front { */
+  /* background-color: rgb(0,0,0); /* Fallback color */ */
+  /* background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */ */
+  /* color: white; */
+  /* font-weight: bold; */
+  /* border: 3px solid #f1f1f1; */
+  /* position: absolute; */
+  /* top: 50%; */
+  /* left: 50%; */
+  /* transform: translate(-50%, -50%); */
+  /* z-index: 2; */
+  /* width: 80%; */
+  /* padding: 20px; */
+  /* text-align: center; */
+/* } */
+
 .first {
     margin-left:0;
 }
@@ -139,6 +173,7 @@ img {
     background-size:     cover;
 	
 }
+
 tr:nth-child(odd) {
     background-color: olive;
 }
@@ -227,22 +262,27 @@ td, th {
 #pull .btn {
     display:block;
 }
+
 section {
     width:100%;
     padding:50px 0;
     overflow: hidden;
 }
+
 #home {
-	background: #100c08 /*url('image2021/road_view.jpg')*/ no-repeat center center;
-	    -webkit-background-size: cover;
-        -moz-background-size: cover;
-        -o-background-size: cover;
-        background-size: cover;
-    text-align:center;
+	background: #100c08 /* url('image2021/road_view.jpg') */ no-repeat center center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	
+	text-align:center;
     margin-top:80px;
     padding:10px 0;
 	white-space:nowrap;
 }
+
+
 #contact,
 #speakers,
 #about {
@@ -256,6 +296,7 @@ section {
 #paper {
     background: transparent;
     margin-bottom:none;
+	padding:40px;
 	color:#fff;
 }
 
