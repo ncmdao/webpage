@@ -286,7 +286,7 @@ section {
 #contact,
 #speakers,
 #about {
-	background-color: #dce3d5;
+	background-color: #ffffbf;
 	margin-bottom: none;
 	padding:40px;
 	color:#000;
@@ -301,7 +301,7 @@ section {
 }
 
 #footer{ 
-	background: #dce3d5;
+	background: #ffffbf;
 	padding: 0px;
 	overflow:hidden;
 }
