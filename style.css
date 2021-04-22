@@ -125,7 +125,18 @@ img {
     float:right;
 	white-space:nowrap;
 }
-
+.col8 {
+    width:49.0%;
+    margin-left:0%;
+    float:left;
+	white-space:wrap;
+}
+.col9 {
+    width:49.0%;
+    margin-left:0%;
+    float:right;
+	white-space:wrap;
+}
 /* .bg-back{ */
   /* /* The image used */ */
   /* background: url("image2021/road_view.jpg"); */
