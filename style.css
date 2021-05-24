@@ -137,6 +137,16 @@ img {
     float:right;
 	white-space:wrap;
 }
+.ctd1 {
+  height: 100%;
+  color: white;
+  font-size: 20px;
+}
+.ctd2 {
+  height: 100%;
+  color: white;
+  font-size: 30px;
+}
 /* .bg-back{ */
   /* /* The image used */ */
   /* background: url("image2021/road_view.jpg"); */
