@@ -455,11 +455,11 @@ footer a:hover {
         float: none;  
         width: 100%; 
         padding-left:1px; 
-        border-bottom:1px solid #00ab94;
-        background-color:#dce3d5;
+        border-bottom:1px solid #a8d0e6;
+        background-color:#e85a4f;
     }
     nav ul li:hover {
-        background-color:#00ab94;
+        background-color:#a8d0e6;
     }
     nav ul li a {
         padding:1px;
