@@ -497,20 +497,6 @@ section {
     overflow: hidden;
 }
 
-#home {
-	background: #100c08 /* url('image2021/road_view.jpg') */ no-repeat center center;
-		-webkit-background-size: cover;
-		-moz-background-size: cover;
-		-o-background-size: cover;
-		background-size: cover;
-	
-	text-align:center;
-    margin-top:80px;
-    padding:10px 0;
-	white-space:nowrap;
-}
-
-
 #contact,
 #speakers,
 #about {
