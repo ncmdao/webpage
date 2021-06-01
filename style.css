@@ -392,12 +392,12 @@ footer a:hover {
         display: block;  
         float: none;  
         width: 100%; 
-        padding-left:10px; 
-        border-bottom:1px solid #00ab94;
-        background-color:#dce3d5;
+        padding-left:1px; 
+        border-bottom:1px solid #a8d0e6;
+        background-color:#daad86;
     }
     nav ul li:hover {
-        background-color:#00ab94;
+        background-color:#a8d0e6;
     }
     nav ul li a {
         padding:10px;
@@ -424,7 +424,7 @@ footer a:hover {
 	}
 }
 
-/* @media screen and (width:1020px){
+@media screen and (width:1020px){
     .wrap {
         width:86%;
     }
@@ -436,7 +436,6 @@ footer a:hover {
     .col4,
     .col5 {
         width:100%;
-        float:none;
         margin:0 0 0px;
     }
 }
@@ -455,7 +454,7 @@ footer a:hover {
         display: block;  
         float: none;  
         width: 100%; 
-        padding-left:0px; 
+        padding-left:1px; 
         border-bottom:1px solid #00ab94;
         background-color:#dce3d5;
     }
@@ -463,8 +462,8 @@ footer a:hover {
         background-color:#00ab94;
     }
     nav ul li a {
-        padding:0px;
-        line-height:0px;
+        padding:1px;
+        line-height:1px;
         border:none;
     }
     nav ul li.active a, 
