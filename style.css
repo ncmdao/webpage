@@ -1,11 +1,13 @@
 * {margin:0;padding:0;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
+/*colors: #f8e9a1 sandal , #f76c8c pink , #a8d0e6 light blue, #374785 blue , #1a4177 midnightblue , #e85a4f light red , #ae0001 red , #daad86 #bc986a - light browns , #78244c purplish violet */
+
 /* ============== Reset css styles ==================== */
 body {
     /* font:15px/26px 'Open-sans', Trebuchet, sans-serif; */
-	font-family: 'Merriweather Sans', sans-serif;
+       font-family: 'Merriweather Sans', sans-serif;
     /* color:#000000; */
     font-weight:400;
-	background:#1a4177;
+	background:#374785;
 }
 
 /* .clearfix:after {
@@ -31,7 +33,7 @@ a:visited {
     outline:none;
 }
 a {
-    color:#00ab94;
+    color:#a8d0e6;
     text-decoration:none;
 }
 a:hover {
@@ -147,6 +149,27 @@ img {
   color: white;
   font-size: 20px;
 }
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+body {
+  font: normal 13px/1.5 */
+	background: #a8d0e6;
+  color: white;
+}
+
 
 /* .bg-back{ */
   /* /* The image used */ */
@@ -202,14 +225,14 @@ img {
 }
 
 tr:nth-child(odd) {
-    background-color: olive;
+    background-color: #a8d0e6;
 }
 .mySlides {display:none;}
 /* Main styles ========================= */
 
 
 header {
-	background-color:#1a4177;
+	background-color:#374785;
 	color:#000;
     position:fixed;
     top:0;
@@ -237,7 +260,7 @@ nav ul li a {
 }
 nav ul li.active a,
 nav ul li a:hover {
-    color:#ffffff;
+    color:#a8d0e6;
     text-decoration:none;
     border-bottom:4px solid #ff0000;
 }
@@ -301,7 +324,7 @@ section {
 #contact,
 #speakers,
 #about {
-	background-color: #ffffbf;
+	background-color: #ffffff;
 	margin-bottom: none;
 	padding:40px;
 	color:#000;
@@ -316,8 +339,8 @@ section {
 }
 
 #footer{ 
-	background: #ffffbf;
-	padding: 0px;
+	background:#374785;
+	padding: 40px;
 	overflow:hidden;
 }
 
@@ -334,7 +357,7 @@ section {
 /* Footer ========================= */
 
 footer {
-    color:#666;
+    color:#a8d0e6;
     text-align:center;
     font-size:12px;
     margin:40px auto 10px;
@@ -344,7 +367,7 @@ footer a {
     text-decoration:underline;
 }
 footer a:hover {
-    color:#00ab94;
+    color:#e85a4f;
 }
 
 /* Responsive styles ========================= */
@@ -392,8 +415,8 @@ footer a:hover {
 		margin-left:0%;
     } 
     #home {
-        margin-top:30px;
-        padding:30px 0;
+        margin-top:40px;
+        padding:100px 0;
     }
 	.wrap{
 		padding-left: 1cm;
@@ -414,7 +437,7 @@ footer a:hover {
     .col5 {
         width:100%;
         float:none;
-        margin:0 0 20px;
+        margin:0 0 0px;
     }
 }
 @media screen and (width:680px){ 
@@ -426,13 +449,13 @@ footer a:hover {
         height: auto; 
         text-align:left;
         width:100%;
-        margin-top:40px;
+        margin-top:0px;
     }  
     nav ul li {
         display: block;  
         float: none;  
         width: 100%; 
-        padding-left:10px; 
+        padding-left:0px; 
         border-bottom:1px solid #00ab94;
         background-color:#dce3d5;
     }
@@ -440,8 +463,8 @@ footer a:hover {
         background-color:#00ab94;
     }
     nav ul li a {
-        padding:10px;
-        line-height:20px;
+        padding:0px;
+        line-height:0px;
         border:none;
     }
     nav ul li.active a, 
@@ -453,6 +476,6 @@ footer a:hover {
         display: block;
     } 
     #home {
-        margin-top:40px;
-        padding:100px 0;
+        margin-top:0px;
+        padding:0px 0;
     }
