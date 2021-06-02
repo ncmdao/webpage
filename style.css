@@ -225,7 +225,7 @@ body {
 }
 
 tr:nth-child(odd) {
-    background-color: #a8d0e6;
+    background-color: #2c92d5;
 }
 .mySlides {display:none;}
 /* Main styles ========================= */
@@ -393,11 +393,11 @@ footer a:hover {
         float: none;  
         width: 100%; 
         padding-left:1px; 
-        border-bottom:1px solid #a8d0e6;
-        background-color:#ffffff;
+        border-bottom:1px solid #00ab94;
+        background-color:#dce3d5;
     }
     nav ul li:hover {
-        background-color:#a8d0e6;
+        background-color:#00ab94;
     }
     nav ul li a {
         padding:10px;
@@ -455,11 +455,11 @@ footer a:hover {
         float: none;  
         width: 100%; 
         padding-left:1px; 
-        border-bottom:1px solid #a8d0e6;
-        background-color:#e85a4f;
+        border-bottom:1px solid #00ab94;
+        background-color:#dce3d5;
     }
     nav ul li:hover {
-        background-color:#a8d0e6;
+        background-color:#00ab94;
     }
     nav ul li a {
         padding:1px;
