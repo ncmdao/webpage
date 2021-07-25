@@ -1,3 +1,5 @@
+/*colors: #f8e9a1 sandal , #f76c8c pink , #a8d0e6 light blue, #374785 blue , #1a4177 midnightblue , #e85a4f light red , #ae0001 red , #daad86 #bc986a - light browns , #78244c purplish violet */
+
 * {margin:0;padding:0;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;}
 /*colors: #f8e9a1 sandal , #f76c8c pink , #a8d0e6 light blue, #374785 blue , #1a4177 midnightblue , #e85a4f light red , #ae0001 red , #daad86 #bc986a - light browns , #78244c purplish violet */
 
@@ -323,7 +325,8 @@ section {
       }
 #contact,
 #speakers,
-#about {
+#about, 
+#update {
 	background-color: #ffffff;
 	margin-bottom: none;
 	padding:40px;
