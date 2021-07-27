@@ -151,6 +151,13 @@ img {
   color: white;
   font-size: 20px;
 }
+.col26 {
+    width:23%;
+    margin-left:0%;
+    float:right;
+	white-space:nowrap;
+	background-color: white;
+}
 *,
 *::before,
 *::after {
