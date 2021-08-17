@@ -332,7 +332,6 @@ section {
       }
 #contact,
 #speakers,
-#about,
 #design,
 #update {
 	background-color: #ffffff;
@@ -342,6 +341,7 @@ section {
 }
 
 #dates,
+#about,
 #paper {
     background: transparent;
     margin-bottom:none;
