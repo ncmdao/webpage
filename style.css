@@ -331,8 +331,7 @@ section {
 	padding:20px 0;
       }
 #contact,
-#speakers,
-#about, 
+#speakers, 
 #design,
 #update {
 	background-color: #ffffff;
@@ -341,6 +340,7 @@ section {
 	color:#000;
 }
 
+#about,
 #dates,
 #paper {
     background: transparent;
