@@ -342,7 +342,8 @@ section {
 
 #about,
 #dates,
-#paper {
+#paper, 
+#finalpaper {
     background: transparent;
     margin-bottom:none;
 	padding:40px;
