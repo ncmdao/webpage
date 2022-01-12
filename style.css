@@ -333,7 +333,8 @@ section {
 #contact,
 #speakers, 
 #design,
-#update {
+#update,
+temp {
 	background-color: #ffffff;
 	margin-bottom: none;
 	padding:40px;
